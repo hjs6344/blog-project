@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import kr.co.blog.service.LoginService;
 import kr.co.blog.vo.Test;
 
+// login controller
 @Controller
 @RequestMapping("/")
 public class LoginController {
