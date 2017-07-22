@@ -24,6 +24,7 @@ public class LoginController {
 		Test result = new Test();
 		result.setTest("aaaa");
 		result.setTest2(123);
+		System.out.println("이게 무슨 일이야");
 		return result;
 	}
 
